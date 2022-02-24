@@ -1,6 +1,7 @@
 ﻿using System;
+using ExercicioResolvido2.Entities;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace ExercicioResolvido2
 {
     internal class Program
     {
